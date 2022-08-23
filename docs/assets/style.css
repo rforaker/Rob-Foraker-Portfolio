@@ -107,3 +107,8 @@ footer {
     background:rgb(53, 63, 129);
     font-size: large;
 }
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
